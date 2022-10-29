@@ -38,5 +38,9 @@
   ],
   "bin": {
     "cdkout2md": "./lib/cli.js"
+  },
+  "dependencies": {
+    "@types/yargs": "^17.0.13",
+    "yargs": "^17.6.0"
   }
 }

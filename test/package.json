@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": "true",
   "scripts": {
-    "test": "cdkout2md 1 2 3"
+    "test": "cdkout2md -i cdk.output.test.json -o cdk.output.test.md --ignore-errors"
   },
   "license": "MIT",
   "dependencies": {
