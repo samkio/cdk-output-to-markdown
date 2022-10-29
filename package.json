@@ -35,5 +35,8 @@
   },
   "files": [
     "lib/*"
-  ]
+  ],
+  "bin": {
+    "cdkout2md": "./lib/cli.js"
+  }
 }
