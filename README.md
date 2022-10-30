@@ -1,5 +1,7 @@
 # cdk-output-to-markdown
 
+[![](https://img.shields.io/npm/v/cdk-output-to-markdown)](https://www.npmjs.com/package/cdk-output-to-markdown)
+
 Small package to convert CDK output JSON to Markdown
 
 ## Install
